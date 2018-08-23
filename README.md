@@ -1,9 +1,4 @@
 # hello-world
 saying hello to the world
 
-HELLO
-
-
-
-
-GOODBYE
+G'Day
